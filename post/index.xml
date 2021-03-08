@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on website</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 26 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>软件使用说明(win)</title>
+      <link>/2019/12/26/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8Ewin/</link>
+      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/12/26/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8Ewin/</guid>
+      <description>一系列文件打包下载解压按说明使用
+使用说明 1.压缩包解压后，可以看到如下两个文件 2. 先安装NDP471, 直接一路next即可（备注： 如果您的电脑已经有该软件了，则不需要安装）。  3. 再解压v2rayN，解压后进入该文件夹，如图步骤进行 4. 完成以上步骤即可上网 注意：
+ 先测试能不能上网（google 或youtube）； 如果能则不需要进行一下步骤。 如果不能上网， 则进行更新软件。  5.注意事项  使用完以后,一定要正常退出, 点击软件,关闭Http代理   否则下次你连百度都打不开, 解决办法,按照上面的步骤,重新来一篇.  ​</description>
+    </item>
+    
+    <item>
+      <title>软件使用说明(安卓)</title>
+      <link>/2019/12/26/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E5%AE%89%E5%8D%93/</link>
+      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/12/26/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E5%AE%89%E5%8D%93/</guid>
+      <description>  点击下载app安装
+  </description>
+    </item>
+    
+  </channel>
+</rss>
